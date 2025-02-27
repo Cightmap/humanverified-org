@@ -1,7 +1,7 @@
 ---
 title: "Navigating the US Artificial Intelligence Regulation"
 description: "Explore the current state and future of artificial intelligence regulation in the US, including federal initiatives, state laws, and industry self-regulation."
-pubDate: "2024-02-25"
+pubDate: "2025-02-25"
 author: "Jason Cline for SuperCight Domains via HumanVerified.org"
 tags: ["AI Regulation", "Artificial Intelligence Policy", "Federal AI Guidelines", "State AI Laws", "AI Ethics", "Cybersecurity AI", "Digital Trust", "AI Legislation 2025"]
 ---

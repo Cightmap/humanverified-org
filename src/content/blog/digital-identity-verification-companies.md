@@ -1,7 +1,7 @@
 ---
 title: "Digital Identity Verification Companies"
 description: "Explore how digital identity verification companies are transforming online security, their key players, and the future of proving who we are in a digital world."
-pubDate: "2024-02-25"
+pubDate: "2025-02-25"
 author: "Jason Cline for SuperCight Domains via HumanVerified.org"
 tags: ["Digital Identity Verification", "Online Identity Security", "Cybercrime Prevention", "Biometric Verification", "Self-Sovereign Identity", "ID Verification Companies", "Financial Services Security", "Privacy in Digital ID"]
 ---

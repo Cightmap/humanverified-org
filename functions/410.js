@@ -2,7 +2,8 @@ export default {
     async fetch(request) {
       const url = new URL(request.url);
       const gonePages = [
-        '/blog/first-post'
+        '/blog/first-post',
+        '/blog/site-migration-seo'
       ];
   
       // Check if the requested path is in the gonePages list
